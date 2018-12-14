@@ -2,6 +2,8 @@
 
 Hi,
 I am Ramesh.G,To day(14/12/2018)I am created new GitHib account.
+I created new Repository in gitHub.
+I created new file and written some texts.
 
 
 Thanks
